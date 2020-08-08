@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/visualization-server:0.2.5
+From gcr.io/kubeflow-images-public/katib/v1alpha3/katib-controller:v0.8.0
