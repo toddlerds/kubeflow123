@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/viewer-crd-controller:0.2.5
+From gcr.io/spark-operator/spark-operator:v1beta2-1.0.0-2.4.4
